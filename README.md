@@ -11,7 +11,7 @@ Walidacja wprowadzonych danych. Jeśli jakiś wymiar jest nieprawidłowy lub nar
 Skrypt umożliwia zapis do trzech formatów: .step, .igs i .sat </sub>
 
 ## Technologies
-Solidworks macro as **.swp** file.
+Solidworks macro as *.swp* file.
 
 ## Setup
 1. **Start** *Solidworks*.
