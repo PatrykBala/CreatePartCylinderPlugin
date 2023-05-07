@@ -17,6 +17,6 @@ Solidworks macro as .swp file.
 1. **Start** *Solidworks*.
 2. **Run** the macro options.
 3. **Locate** the *CreateRing.swp* file and **open**.
-**Enter** the ring data
-After entering the data, click **Run**.
-A ring with the dimensions you specified will be created.
+4. **Enter** the ring data.
+5. After entering the data, click **Run**.
+6. A ring with the dimensions you specified will be created.
