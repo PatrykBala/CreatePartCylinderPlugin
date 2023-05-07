@@ -1,4 +1,6 @@
 # Create Part Cylinder Plugin to Abaqus.
+![CylinderJPG](https://user-images.githubusercontent.com/73967948/236691743-35fc755b-ec15-478a-a44f-b4363a306a21.JPG)
+
 ## General info
 The script is equipped with a graphical user interface that allows you to automatically draw a selected shape based on the given dimensions, and then save the created element to a file. A script that draws a ring with user-specified dimensions: A (ring height), B (ring diameter) and C (wall thickness).
 
